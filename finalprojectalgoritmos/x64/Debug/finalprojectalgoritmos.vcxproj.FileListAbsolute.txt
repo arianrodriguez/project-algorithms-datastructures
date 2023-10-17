@@ -1,0 +1,16 @@
+C:\Users\Arian\source\repos\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\source\repos\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\SEBASTIAN_PC\Downloads\proyectos\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Downloads\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Downloads\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Arian\Desktop\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\SEBASTIAN_PC\Desktop\finalprojectalgoritmos\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\SEBASTIAN_PC\Desktop\V7\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\V7.1\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\V7.1\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Arian\Desktop\V7.5\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\V7.5\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\SEBASTIAN_PC\Desktop\V9\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\x64\Debug\finalprojectalgoritmos.vcxproj.SuggestedBindingRedirects.cache

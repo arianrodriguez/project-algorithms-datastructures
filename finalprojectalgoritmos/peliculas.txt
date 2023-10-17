@@ -1,0 +1,23 @@
+Harry Potter
+J.K. Rowling
+Harry Potter es una serie de novelas fantásticas escrita por la autora británica J. K. Rowling, en la que se describen 
+las aventuras del joven aprendiz de magia y hechicería Harry Potter 
+y sus amigos Hermione Granger y Ron Weasley, durante los años que pasan en el Colegio Hogwarts de Magia y Hechicería. 
+El argumento se centra en la lucha entre Harry Potter y el malvado mago lord Voldemort, 
+quien asesinó a los padres de Harry en su afán de conquistar el mundo mágico.
+
+Cadena Perpetua
+Frank Darabont
+Primera realización cinematográfica de un director que había conseguido cierto prestigio en la televisión, 
+en la que adaptó un atípico relato de Stephen King. A través de la tradicional estructura del melodrama carcelario, 
+propone una fábula entre fantasiosa y voluntarista, con imaginativos recovecos. Sin llegar a la excelencia, 
+supuso una agradable sorpresa
+
+El Padrino
+Francis Ford Coppola
+Adaptación de una celebrada novela de Mario Puzo, en la que se revisaba la mítica mafiosa a través
+de una mirada que pretendía comprender su razón de ser desde la Historia y la tradición ancestral. 
+Con este prometedor material, Coppola construyó una de las grandes tragedias del cine contemporáneo, 
+donde el cine negro alcanzaba resonancias shakespearianas. Contra todo pronóstico, sus secuelas estuvieron a su altura
+
+#end - dejar espacio en blanco antes

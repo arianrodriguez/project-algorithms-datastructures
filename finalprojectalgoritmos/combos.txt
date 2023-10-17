@@ -1,0 +1,17 @@
+Canchita con popcorn 
+Bebida inka kola 1.5L
+Nachos               
+32
+
+Canchita grande      
+[mantequilla]        
+Bebida Coca Cola 3L  
+Hot dog              
+45
+
+Canchita mediano     
+[dulce]              
+Bebida Sprite 1L     
+13
+
+#end

@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\FuncionesMain.h(231,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\Utilidades.h(196,8): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\Utilidades.h(212,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\Utilidades.h(231,8): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\main.cpp(1441,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\main.cpp(1455,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\main.cpp(1508,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\main.cpp(1594,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\ColaPrioridad.h(50,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\ColaPrioridad.h(48): message : al compilar la función del miembro clase plantilla "void ColaPrioridad<Usuario>::push(T *)"
+          with
+          [
+              T=Usuario
+          ]
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\Utilidades.h(255): message : Vea la referencia a la creación de una instancia de la función plantilla "void ColaPrioridad<Usuario>::push(T *)" que se está compilando
+          with
+          [
+              T=Usuario
+          ]
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\FuncionesMain.h(199): message : Vea la referencia a la creación de una instancia de clase plantilla "ColaPrioridad<Usuario>" que se está compilando
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\ColaPrioridad.h(22,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\ColaPrioridad.h(21): message : al compilar la función del miembro clase plantilla "void ColaPrioridad<Usuario>::heapifyDown(int)"
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\ColaPrioridad.h(63): message : Vea la referencia a la creación de una instancia de la función plantilla "void ColaPrioridad<Usuario>::heapifyDown(int)" que se está compilando
+C:\Users\Arian\Desktop\V10\finalprojectalgoritmos\ArbolB.h(118): warning C4715: 'ArbolBinario<Usuario>::_getElemento': no todas las rutas de acceso de control devuelven un valor
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  finalprojectalgoritmos.vcxproj -> C:\Users\Arian\Desktop\V10\x64\Debug\finalprojectalgoritmos.exe
